@@ -1,1 +1,2 @@
-# ruby
+project pour Jeudi et Vendredi
+

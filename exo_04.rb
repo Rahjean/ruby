@@ -1,0 +1,1 @@
+quand j'essai d'executé le (puts "Salut, ça farte ?) il me dit puts "exo_04.rb: unterminated string meets end of file" qui voulais dire que le string est non terminer a cause de la manque de (") a la fin
